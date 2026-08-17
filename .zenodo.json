@@ -1,0 +1,10 @@
+{
+  "title": "SLURRY: A Protocol for the Multi-Axis Characterization of Synthetic and Suspect Media",
+  "upload_type": "publication",
+  "publication_type": "workingpaper",
+  "creators": [{"name": "Nealon, Jon"}],
+  "description": "SLURRY is an open protocol for characterizing synthetic and suspect media. It does not produce verdicts: given an artifact and its required context, it runs an ensemble of independent modules across four axes (biological signal, physical plausibility, contextual priors, provenance) and reports findings, confidence, and inter-module disagreement, under named evidentiary rules, with full chain-of-custody logging. Aligned with the Berkeley Protocol on Digital Open Source Investigations. Documents CC BY 4.0; original module code MIT.",
+  "license": "cc-by-4.0",
+  "keywords": ["synthetic media", "AI slop", "media forensics", "deepfake detection", "digital methods", "open source investigation", "Berkeley Protocol"],
+  "version": "1.0.0"
+}

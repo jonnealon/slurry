@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use SLURRY, please cite the protocol document."
+title: "SLURRY: A Protocol for the Multi-Axis Characterization of Synthetic and Suspect Media"
+authors:
+  - family-names: Nealon
+    given-names: Jon
+version: 1.0.0
+date-released: 2026-08-17
+license: CC-BY-4.0
+keywords:
+  - synthetic media
+  - AI slop
+  - media forensics
+  - deepfake detection
+  - digital methods
+  - open source investigation
+  - Berkeley Protocol
+  - characterization
