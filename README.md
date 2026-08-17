@@ -62,6 +62,6 @@ v1.0-draft. Honest ledger: ensemble thresholds are priors, not calibrations (a p
 
 ## Citing
 
-> Nealon, J. (2026). *SLURRY: A Protocol for the Multi-Axis Characterization of Synthetic and Suspect Media* (v1.0). \<verify\>. DOI: [pending]
+> Nealon, J. (2026). *SLURRY: A Protocol for the Multi-Axis Characterization of Synthetic and Suspect Media* (v1.0). \<verify\>. DOI: [10.5281/zenodo.21986995](https://doi.org/10.5281/zenodo.21986995)
 
 Contributions welcome once the engine scaffold lands — especially modules with honest provenance cards. This project characterizes; it does not adjudicate.
