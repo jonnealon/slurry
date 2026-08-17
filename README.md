@@ -3,7 +3,7 @@
 **An open protocol for the multi-axis characterization of synthetic and suspect media.**
 *Findings, confidence, and disagreement — never a verdict.*
 
-by Jon Nealon · \<verify\> · [Protocol document (DOI)](#) · License: see [Licensing](#licensing)
+by Jon Nealon · \<verify\> · [DOI](https://zenodo.org/badge/1280259211.svg)](https://doi.org/10.5281/zenodo.21986995) · License: see [Licensing](#licensing)
 
 ---
 
